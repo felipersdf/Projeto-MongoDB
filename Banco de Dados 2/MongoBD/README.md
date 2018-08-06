@@ -5,9 +5,9 @@
 O projeto consiste em demonstrar uma aplicação de um banco de dados NoSQL utilizando MongoDB de um aplicativo de músicas baseado em três coleções (Playlist, Música e Álbum) sendo a playlist de músicas como foco principal. Está sendo mostrado o relacionamento que a playlist possui com as músicas e o das músicas com os álbuns. </p> 
 
 ## Modelo Conceitual
-![Modelo Conceitual](https://github.com/felipersdf/Projetos/Banco_de_dados_2/blob/master/Conceitual.png)
+![Modelo Conceitual](https://github.com/felipersdf/Projetos/blob/master/Banco%20de%20Dados%202/MongoBD/Conceitual.png)
 ## Mapeamento
-![Mapeamento](https://github.com/felipersdf/Projetos/Banco_de_dados_2/blob/master/Mapeamento.jpg)
+![Mapeamento](https://github.com/felipersdf/Projetos/blob/master/Banco%20de%20Dados%202/MongoBD/Mapeamento.png)
 ## Requisitos
 
 - [x] Descrição da aplicação
