@@ -32,7 +32,7 @@
 
 ## :notebook: About 
 
-This repository consists of storing the project produced in the discipline of Databases II 2018.1 with MongoDB. For morte details visit
+This repository consists of storing the project produced in the discipline of Databases II 2018.1 with MongoDB. For more details visit
 the [project page](https://github.com/felipersdf/Projeto-MongoDB/tree/master/Banco%20de%20Dados%202/MongoBD)
 
 ---
